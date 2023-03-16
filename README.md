@@ -1,9 +1,9 @@
 # Billionaire Analysis
 Please see requirements.txt for the versions, libraries, etc.\
 Namely:
-* python 3.9.15\
-* pandas: 1.4.4\
-* matplotlib: 3.5.2\
+* python 3.9.15
+* pandas: 1.4.4
+* matplotlib: 3.5.2
 
 ## Read Data In
 https://www.kaggle.com/datasets/salimwid/global-billionaire-wealth-and-sources-2002-2023
