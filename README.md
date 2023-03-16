@@ -1,7 +1,7 @@
 # Billionaire Analysis
-Please see requirements.txt for the versions, libraries, etc.\
 
-Namely:
+Dependencies are in the included requirements.txt file, which you can install [here](https://datumorphism.leima.is/til/programming/python/python-anaconda-install-requirements/)
+
 * python 3.9.15
 * pandas: 1.4.4
 * matplotlib: 3.5.2
