@@ -1,6 +1,6 @@
 # Billionaire Analysis
 Please see requirements.txt for the versions, libraries, etc.\
-Namely:\
+Namely:
 * python 3.9.15\
 * pandas: 1.4.4\
 * matplotlib: 3.5.2\
