@@ -1,6 +1,6 @@
 # Billionaire Analysis
 
-Dependencies are in the included requirements.txt file, which you can install by following instructions [here](https://datumorphism.leima.is/til/programming/python/python-anaconda-install-requirements/)
+Dependencies are in the included requirements.txt file, which you can install by following instructions [HERE](https://datumorphism.leima.is/til/programming/python/python-anaconda-install-requirements/)
 
 * python 3.9.15
 * pandas: 1.4.4
