@@ -7,8 +7,7 @@ Dependencies are in the included requirements.txt file, which you can install by
 * matplotlib: 3.5.2
 
 ## Read Data In
-https://www.kaggle.com/datasets/salimwid/global-billionaire-wealth-and-sources-2002-2023
-* Read in csv from Kaggle (cell [6])
+* Read in csv from Kaggle (cell [6]) [link](https://www.kaggle.com/datasets/salimwid/global-billionaire-wealth-and-sources-2002-2023)
 
 
 ## Manipulate and Clean Data
