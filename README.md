@@ -6,17 +6,17 @@ Dependencies are in the included requirements.txt file, which you can install by
 * pandas: 1.4.4
 * matplotlib: 3.5.2
 
-## Read Data In
+## Reading in Data
 * Read in csv from Kaggle (cell [6]) [dataset](https://www.kaggle.com/datasets/salimwid/global-billionaire-wealth-and-sources-2002-2023)
 
 
-## Manipulate and Clean Data
+## Manipulating and Cleaning Data
 * Remove unnecessary columns (cell [8])
 * Fill nulls (cell [9])
 * Clean up "gender" column (cell [10])
 
 
-## Analyze your Data
+## Analyzing the Data
 * Total number of billionaires in last 20 years (cell [12])
 * Top ten billionaires (cell [13])
 * Gender data (cell [19])
@@ -25,7 +25,7 @@ Dependencies are in the included requirements.txt file, which you can install by
 * Top 3 Industries for Male Billionaires (cell [25])
 
 
-## Visualize your Data
+## Visualizing the Data
 * Top Ten BIllionaires Wealth (cell [14])
 * Top Ten Billionaires Wealth over last 20 years (cell [17])
 * Total Wealth of Billionaires over last 20 years (cell [18])
@@ -33,7 +33,7 @@ Dependencies are in the included requirements.txt file, which you can install by
 * Average income by age (cell [22])
 
 
-## Interpret your Data
+## Interpreting the Data
 * The total number of billionaires over the last 20 years was 5,014. This seemed high to me. 
 * Their total wealth had expected dips in 2009 and 2020, likely due to the housing crisis and the pandemic.
 * I was expecting the gender ratio to skew in favor of males, but 8.9% seemed especially low. 
