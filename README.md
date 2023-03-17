@@ -1,4 +1,4 @@
-# Billionaire Analysis
+# BILLIONAIRE ANALYSIS
 
 Dependencies are in the included requirements.txt file, which you can install by following instructions [HERE](https://datumorphism.leima.is/til/programming/python/python-anaconda-install-requirements/)
 
