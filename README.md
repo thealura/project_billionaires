@@ -7,30 +7,30 @@ Dependencies are in the included requirements.txt file, which you can install by
 * matplotlib: 3.5.2
 
 ## Reading in Data
-* Read in csv from Kaggle (cell [6]) [dataset](https://www.kaggle.com/datasets/salimwid/global-billionaire-wealth-and-sources-2002-2023)
+* Read in csv from Kaggle  (cell [6]) [dataset](https://www.kaggle.com/datasets/salimwid/global-billionaire-wealth-and-sources-2002-2023)
 
 
 ## Manipulating and Cleaning Data
-* Remove unnecessary columns (cell [8])
-* Fill nulls (cell [9])
-* Clean up "gender" column (cell [10])
+* Remove unnecessary columns  (cell [8])
+* Fill nulls  (cell [9])
+* Clean up "gender" column  (cell [10])
 
 
 ## Analyzing the Data
-* Total number of billionaires in last 20 years (cell [12])
-* Top ten billionaires (cell [13])
-* Gender data (cell [19])
-* Youngest billionaire (cell [21])
-* Top 3 Industries for Female Billionaires (cell [24])
-* Top 3 Industries for Male Billionaires (cell [25])
+* Total number of billionaires in last 20 years  (cell [12])
+* Top ten billionaires  (cell [13])
+* Gender data  (cell [19])
+* Youngest billionaire  (cell [21])
+* Top 3 Industries for Female Billionaires  (cell [24])
+* Top 3 Industries for Male Billionaires  (cell [25])
 
 
 ## Visualizing the Data
-* Top Ten BIllionaires Wealth (cell [14])
-* Top Ten Billionaires Wealth over last 20 years (cell [17])
-* Total Wealth of Billionaires over last 20 years (cell [18])
-* Gender Ratios (cell [20])
-* Average income by age (cell [22])
+* Top Ten BIllionaires Wealth  (cell [14])
+* Top Ten Billionaires Wealth over last 20 years  (cell [17])
+* Total Wealth of Billionaires over last 20 years  (cell [18])
+* Gender Ratios  (cell [20])
+* Average income by age  (cell [22])
 
 
 ## Interpreting the Data
